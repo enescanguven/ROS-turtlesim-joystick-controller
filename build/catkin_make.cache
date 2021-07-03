@@ -1,0 +1,2 @@
+joy-turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/enes/robo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/enes/robo_ws/install -G Unix Makefiles

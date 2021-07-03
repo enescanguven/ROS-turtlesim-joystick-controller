@@ -1,0 +1,8 @@
+prefix=/home/enes/robo_ws/install
+
+Name: deneme
+Description: Description of deneme
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
